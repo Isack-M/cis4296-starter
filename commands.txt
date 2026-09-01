@@ -17,5 +17,12 @@ git status
 git add commands.txt
     The current txt file is now being stracked
 
+git add -p
+    Looked at the previous change and tracked it 
+
+git commit -m "Created a list a commands used in the process of this activity"
+
+git push
+    Push all changes into the server
 
 
