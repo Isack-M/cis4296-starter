@@ -1,0 +1,21 @@
+Commands used:
+cd Documents/Software\ Design/GitActivity
+	I switched into the directory I will be doing this assignment in.
+
+git clone https://github.com/Isack-M/cis4296-starter
+	Clone the forked repository into the current directory.
+
+cd cis4296-starter
+	Switch into the folder of the repo I just cloned.
+
+touch commands.txt
+	Created a new text file inside the current directory.
+
+git status
+    Check the status of repo, the only file that is untracked is this one currently.
+
+git add commands.txt
+    The current txt file is now being stracked
+
+
+
